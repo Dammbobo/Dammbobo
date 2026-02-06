@@ -1,6 +1,25 @@
-- 👋 I am a passionate DevOps Engineer with over 6 years of experience in software development, having worked with a diverse range of organizations. My expertise lies in bridging the gap between development and operations, ensuring seamless integration and deployment processes. I am passionate about writing high-quality code that adheres to best practices and continuously seek to improve system performance and reliability. My strong background in software development allows me to implement effective automation and monitoring solutions, driving efficiency and innovation in every project I undertake.
-- 👀 I’m interested in hiking, camping, cooking...
+👋 Hi, I’m Dami
 
+I’m a DevOps & Automation-focused Engineer with hands-on experience building, deploying, and maintaining reliable systems.
+
+💡 What I work on:
+- CI/CD pipelines and automation
+- Dockerized microservices
+- Infrastructure-as-Code (Terraform)
+- Monitoring and reliability tooling
+
+🛠 Tech stack:
+- Python, JavaScript
+- Docker, GitHub Actions
+- Linux, Bash
+- Terraform (learning & labs)
+
+🚀 Current focus:
+Building practical DevOps and automation projects that simulate real-world
+production systems and reliability challenges.
+
+📫 Connect with me:
+- LinkedIn: linkedin.com/in/damiadekanye
 
 
 <!---

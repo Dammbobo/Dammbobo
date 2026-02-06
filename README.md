@@ -1,25 +1,48 @@
-👋 Hi, I’m Dami
+## 👋 Hi, I’m Dami
 
-I’m a DevOps & Automation-focused Engineer with hands-on experience building, deploying, and maintaining reliable systems.
+I’m a DevOps & Automation-focused engineer with a background in building,
+deploying, and maintaining reliable systems.
 
-💡 What I work on:
-- CI/CD pipelines and automation
-- Dockerized microservices
-- Infrastructure-as-Code (Terraform)
-- Monitoring and reliability tooling
+I enjoy working at the intersection of **software development, automation,
+and infrastructure**, and I’m especially interested in improving system
+reliability and developer workflows.
 
-🛠 Tech stack:
-- Python, JavaScript
-- Docker, GitHub Actions
-- Linux, Bash
-- Terraform (learning & labs)
+---
 
-🚀 Current focus:
-Building practical DevOps and automation projects that simulate real-world
-production systems and reliability challenges.
+## 🛠 What I work with
+- **Languages:** Python, Bash
+- **Containers:** Docker
+- **CI/CD:** GitHub Actions
+- **Infrastructure as Code:** Terraform
+- **Tools:** Linux, Git, GitHub
 
-📫 Connect with me:
-- LinkedIn: linkedin.com/in/damiadekanye
+---
+
+## 🚀 Featured Projects
+Here are a few hands-on projects that reflect how I approach DevOps and automation:
+
+- **Dockerized Microservice**  
+  A lightweight Python microservice built with FastAPI and containerized using Docker.
+
+- **CI/CD with GitHub Actions**  
+  A simple CI pipeline that automatically runs Python tests on every push and pull request.
+
+- **Terraform Lab**  
+  An Infrastructure as Code lab demonstrating providers, variables, and outputs using Terraform’s local provider.
+
+---
+
+## 🧠 What I focus on
+- Writing clean, maintainable infrastructure and automation code
+- Using CI/CD pipelines to catch issues early
+- Learning by building practical, real-world projects
+- Continuously improving reliability and deployment workflows
+
+---
+
+## 📫 Let’s connect
+- **LinkedIn:** https://www.linkedin.com/in/damiadekanye
+
 
 
 <!---
